@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center">A passionate student learning programming from Ahmedabad</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay-th" alt="vinay-th" /></a> </p>
-
 - 🔭 I’m currently learning [java](https://github.com/vinay-th/learn-workspace/tree/main/Java)
 
 - 🌱 I’m currently also learning **MERN Stack**
