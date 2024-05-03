@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center">A passionate student learning programming from Ahmedabad</h3>
 
-- 🎓 Currently studing at **GLS University**
+- 🎓 Currently studing Bsc **IT** at **GLS University**
 
 - 🔭 I’m currently learning [java](https://github.com/vinay-th/learn-workspace/tree/main/Java)
 
