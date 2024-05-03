@@ -3,7 +3,7 @@
 
 - 🎓 Currently studing Bsc **IT** at **GLS University**
 
-- 🔭 I’m currently learning [java](https://github.com/vinay-th/learn-workspace/tree/main/Java)
+- 🔭 I’m currently learning [Java](https://github.com/vinay-th/learn-workspace/tree/main/Java)
 
 - 🌱 I’m currently also learning **MERN Stack**
 
