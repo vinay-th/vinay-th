@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am narcissist 😏**
 
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"  alt="programmer">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
