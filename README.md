@@ -1,4 +1,4 @@
-<h1 align="Center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&random=false&width=435&lines=Heyy+there;I+am+Vinay)](https://git.io/typing-svg)</h1>
+<h1 align="Center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&random=false&width=435&lines=Heyy+there;I+am+Vinay" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate student learning programming from Ahmedabad</h3>
 
 - 🎓 Currently studing Bsc **IT** at **GLS University**
