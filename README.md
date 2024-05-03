@@ -19,7 +19,9 @@
 
 - ⚡ Fun fact **I am narcissist 😏**
 
+<div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"  alt="programmer">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
