@@ -1,7 +1,7 @@
 <h1 align="Center"><a href="https://git.io/typing-svg"><img height=70 width=500 src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&random=false&width=435&lines=Heyy+there👋🏻;I+am+Vinay🦅" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate student learning programming from Ahmedabad</h3>
 
-- 🎓 Currently studing Bsc **IT** at **GLS University**
+- 🎓 Currently studing Bsc **IT** 2nd year at **GLS University**
 
 - 🔭 I’m currently learning [Java](https://github.com/vinay-th/learn-workspace/tree/main/Java)
 
