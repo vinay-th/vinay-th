@@ -13,7 +13,7 @@
 
 - 👽 Check my work out [PawNder](https://vinay-th.github.io/pawnder/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vinay-th](https://github.com/vinay-th)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/vinay-th)
 
 - 💬 Ask me about **computers, study, gaming**
 
