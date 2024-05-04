@@ -48,5 +48,6 @@
 
 <div align="center">
   <i>"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." - Stephen Hawking</i>
+  <br><br>
 <a href='https://ko-fi.com/vinaythakor' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
