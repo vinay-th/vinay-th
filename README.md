@@ -1,6 +1,8 @@
 <h1 align="Center"><img height=70 width=500 src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&random=false&width=435&lines=Heyy+there👋🏻;I+am+Vinay🦅" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate student learning programming from Ahmedabad</h3>
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"  alt="programmer" align="right">
+
 - 🎓 Currently studing Bsc **IT** 2nd year at **GLS University**
 
 - 🔭 I’m currently learning [Java](https://github.com/vinay-th/learn-workspace/tree/main/Java)
@@ -19,9 +21,9 @@
 
 - ⚡ Fun fact **I am narcissist 😏**
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"  alt="programmer">
-</div>
+
+  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
