@@ -5,17 +5,17 @@
 
 - 🎓 Currently studing Bsc **IT** 2nd year at **GLS University**
 
-- 🔭 I’m currently learning [Java](https://github.com/vinay-th/learn-workspace/tree/main/Java)
+- 🔭 I’m currently learning [Flutter](https://github.com/vinay-th/learn-workspace/tree/main/Java)
 
-- 🌱 I’m currently also learning **MERN Stack**
+- 🌱 I’m a **MERN Stack Dev**
 
-- ☁️ I’m fluent in [C](https://github.com/vinay-th/Adv_C_Assignmenmts)
+- ☁️ I’m fluent in [C](https://github.com/vinay-th/Adv_C_Assignmenmts), [C++](https://github.com/vinay-th/Supreme_DSA), [Java](https://github.com/vinay-th/learn-workspace/tree/main/Java)
 
-- 👽 Check my work out [PawNder](https://vinay-th.github.io/pawnder/)
+- 👽 Check my work out [Akshar](https://akshar-theta.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/vinay-th)
 
-- 💬 Ask me about **computers, study, gaming**
+- 💬 Ask me about **computers, development, gaming**
 
 - 📫 How to reach me **vinaythakor.5025@gmail.com**
 
