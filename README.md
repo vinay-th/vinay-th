@@ -5,7 +5,7 @@
 
 - 🎓 Currently studing Bsc **IT** 2nd year at **GLS University**
 
-- 🔭 I’m currently learning [Flutter](https://github.com/vinay-th/learn-workspace/tree/main/Java)
+- 🔭 I’m currently exploring [Backend alternatives and System Design](https://github.com/vinay-th/PRODIGY_FS_01)
 
 - 🌱 I’m a **MERN Stack Dev**
 
