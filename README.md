@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently exploring [Backend alternatives and System Design](https://github.com/vinay-th/PRODIGY_FS_01)
 
-- 🌱 I’m a **MERN Stack Dev**
+- 🌱 I’m a **Full Stack Dev**
 
 - ☁️ I’m fluent in [C](https://github.com/vinay-th/Adv_C_Assignmenmts), [C++](https://github.com/vinay-th/Supreme_DSA), [Java](https://github.com/vinay-th/learn-workspace/tree/main/Java)
 
