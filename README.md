@@ -99,7 +99,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <h3>Snake eating my contris😒</h3>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vinay-th/vinay-th/output/snake.svg" alt="Snake animation" />
+
   
   <br/><br/><br/>
 </div>
