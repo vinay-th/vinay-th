@@ -33,7 +33,6 @@
 <a href="https://instagram.com/vinay_thakor._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay_thakor._" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/NZFDtnjT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NZFDtnjT" height="30" width="40" /></a>
 </p>
----
 
 # 💻 **Tech Stack**
 
