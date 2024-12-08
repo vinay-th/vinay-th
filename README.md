@@ -99,8 +99,11 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <h3>Snake eating my contris😒</h3>
-  <img src="https://raw.githubusercontent.com/vinay-th/vinay-th/output/snake.svg" alt="Snake animation" />
-
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
   
   <br/><br/><br/>
 </div>
