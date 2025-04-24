@@ -1,4 +1,4 @@
-<h1 align="Center"><img height=70 width=500 src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&random=false&width=435&lines=Heyy+there👋🏻;I+am+Vinay🦅" alt="Typing SVG" /></a></h1>
+<h1 align="Center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hey+there%F0%9F%91%8B%F0%9F%8F%BB+I+am+Vinay%F0%9F%A6%85" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate student learning programming from Ahmedabad</h3>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"  alt="programmer" align="right">
