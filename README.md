@@ -3,7 +3,7 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"  alt="programmer" align="right">
 
-- 🎓 Currently studing Bsc **IT** 2nd year at **GLS University**
+- 🎓 Currently studing Bsc **IT** 3nd year at **GLS University**
 
 - 🔭 I’m currently mastering [Next JS](https://vinayth.tech/)
 
