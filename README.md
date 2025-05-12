@@ -5,7 +5,7 @@
 
 - 🎓 Currently studing Bsc **IT** 2nd year at **GLS University**
 
-- 🔭 I’m currently exploring [React Native](https://github.com/vinay-th/Zoober)
+- 🔭 I’m currently mastering [Next JS](https://vinayth.tech/)
 
 - 🌱 I’m a **Full Stack Dev**
 
