@@ -11,7 +11,7 @@
 
 - ☁️ I’m fluent in [C](https://github.com/vinay-th/Adv_C_Assignmenmts), [C++](https://github.com/vinay-th/Supreme_DSA), [Java](https://github.com/vinay-th/learn-workspace/tree/main/Java)
 
-- 👽 Check my work out [Portfolio](https://vinayth.tech)
+- 👽 Check my work out [Portfolio](https://vinay-th.tech)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/vinay-th)
 
