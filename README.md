@@ -3,13 +3,11 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"  alt="programmer" align="right">
 
-- 🎓 Currently studing Bsc **IT** 3nd year at **GLS University**
+- 🎓 Currently pursuing **MCA** at **Nirma University**
 
 - 🔭 I’m currently mastering [Next JS](https://vinayth.tech/)
 
 - 🌱 I’m a **Full Stack Dev**
-
-- ☁️ I’m fluent in [C](https://github.com/vinay-th/Adv_C_Assignmenmts), [C++](https://github.com/vinay-th/Supreme_DSA), [Java](https://github.com/vinay-th/learn-workspace/tree/main/Java)
 
 - 👽 Check my work out [Portfolio](https://vinay-th.tech)
 
