@@ -5,7 +5,7 @@
 
 - 🎓 Currently pursuing **MCA** at **Nirma University**
 
-- 🔭 I’m currently mastering [Next JS](https://vinayth.tech/)
+- 🔭 I’m currently mastering [Next JS](https://limewire.com/d/llUkB#G81QAxAwR7)
 
 - 🌱 I’m a **Full Stack Dev**
 
